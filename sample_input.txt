@@ -1,0 +1,10 @@
+allocate 5 A
+allocate 20 B
+allocate 10 C
+allocate 10 D
+allocate 15 E
+allocate 15 F
+allocate 25 G
+release B
+release E
+allocate 15 H
