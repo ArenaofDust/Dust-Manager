@@ -1,0 +1,9 @@
+{
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "main"
+    ],
+    "files.associations": {
+        "*.module": "php",
+        "iosfwd": "cpp"
+    }
+}
