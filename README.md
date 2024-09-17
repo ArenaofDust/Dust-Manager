@@ -1,5 +1,5 @@
-# Memory-Manager
-Implemented a simple memory management system, including two different memory allocation algorithms.
+# Dust-Manager
+Implemented a simple memory management system, including two different memory allocation algorithms. Re-implemenetation with git workflow.
 
 # MemoryManagerBase
 
